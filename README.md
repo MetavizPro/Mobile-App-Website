@@ -1,5 +1,5 @@
 # Mobile-App-Website
-I created a website for a directory app which will connect the blue color daily workers with contractors through realtime job portal. Website had a link to the mobile app download through appstore or google play store. 
+We created a website for a directory app which will connect the blue color daily workers with contractors through realtime job portal. Website had a link to the mobile app download through appstore or google play store. 
 # Miploy.com - Directory App for Blue-Collar Workers
 
 Welcome to the **Miploy.com** repository! This project showcases an innovative **directory app** built on the **Brilliant Directory platform**. Designed to connect **blue-collar workers** with **contractors**, this platform enables seamless and efficient real-time job matching. With mobile app integration and advanced features, Miploy.com ensures accessibility and convenience for users.
@@ -57,14 +57,17 @@ The **Miploy.com** platform was created to address the growing need for a dedica
    - Optimized for fast loading and smooth user experience.
    - Fully responsive design ensuring accessibility on all devices.
 
-![image](https://github.com/user-attachments/assets/77f42aad-f644-49df-946a-f01c757be770)  ![image](https://github.com/user-attachments/assets/9c1a9ae9-5c84-43df-88b7-81968e698d61)
+![Untitled design11111111111111111](https://github.com/user-attachments/assets/51b98bbe-9f45-4ad3-80eb-d84a8b220b7e)
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**:  ![](https://img.shields.io/badge/BrilliantDirectory-Platform-green?style=for-the-badge&logo=brilliantdirectory&logoColor=white)
+**Backend**:  
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white)&nbsp;
 
 **Frontend**:  
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
