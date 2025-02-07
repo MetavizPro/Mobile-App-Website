@@ -76,30 +76,22 @@ The **Miploy.com** platform was created to address the growing need for a dedica
 
 ---
 
-## 👨‍💻 About the Developer
+## 👨‍💻 About the Developer  
 
-Hi, I'm **Sajid Jamil**, an experienced **Brilliant Directory developer** specializing in creating feature-rich, scalable directory platforms. My expertise includes:
+At **MetaViz**, we have a team of experienced **WordPress developers** specializing in creating high-performance, **SEO-optimized**, and **conversion-driven** websites. This project showcases our expertise in building **custom WordPress solutions** that provide real value to businesses, coaches, and service providers.  
 
-- Designing tailored directory solutions.
-- SEO optimization and performance enhancement.
-- Custom feature integration and monetization strategies.
-
-### Notable Achievements:
-- Delivered multiple high-performing directory platforms for diverse industries.
-- Expertise in delivering responsive, secure, and user-friendly solutions.
-
-Miploy.com exemplifies my ability to build robust, impactful platforms that cater to the unique needs of businesses and users.
+If you're looking for a **WordPress expert** to develop, optimize, or enhance your website, **let’s collaborate** and build a powerful digital platform for your business! 🚀
 
 ---
 
 ## 📬 Contact Me
 
-Let’s collaborate and bring your directory platform vision to life! Reach out today:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajidjamil)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](http://miploy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/metaviz-tech/posts/?feedView=all)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:info@metaviz.pro)
+[![Twitter](https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=Twitter)](https://x.com/MetavizPro)
+[![Instagram](https://img.shields.io/badge/Instagram-Contact%20Me-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/metavizpro/)
 
 ---
 
-Hire me to create your next Brilliant Directory project and turn your ideas into a reality!
+Hire our team to elevate your WordPress website, and let’s build a high-performance, scalable, and SEO-optimized platform tailored to your business needs!
+---
